@@ -1,2 +1,2 @@
 # Security Coding Challenges
- Well Defined security coding challenges that I have been working on. 
+ Well defined security coding projects that I've been playing with recently. 
