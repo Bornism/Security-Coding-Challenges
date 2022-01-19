@@ -5,7 +5,9 @@ I worked on these projects in my personal time to get a better understanding of 
 
 Projects:
 • Port Scanner
+
 • Ceasar Cipher
+
 • Parse Arb Logs
 • Web Scraper
 • SSH Botnet
