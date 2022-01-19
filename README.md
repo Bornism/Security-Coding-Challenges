@@ -7,7 +7,7 @@ Most of the projects were created after watching other professionals create them
 
 Projects:
 
-• Port Scanner
+• Port Scanner - Completed
 
 • Ceasar Cipher
 
@@ -15,10 +15,10 @@ Projects:
 
 • Web Scraper
 
-• SSH Botnet
+• SSH Botnet - Completed
 
 • Password Bruteforcer
 
-• Metadata Scraper from PDFs
+• Metadata Scraper from PDFs - Completed
 
 • Recover Deleted Items
