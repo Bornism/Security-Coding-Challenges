@@ -9,7 +9,7 @@ Projects:
 
 • Port Scanner - Completed
 
-• Ceasar Cipher
+• Ceasar Cipher - Completed
 
 • Parse Arb Logs
 
@@ -17,7 +17,7 @@ Projects:
 
 • SSH Botnet - Completed
 
-• Password Bruteforcer
+• Password Bruteforcer - Completed
 
 • Metadata Scraper from PDFs - Completed
 
