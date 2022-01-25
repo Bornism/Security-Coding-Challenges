@@ -11,7 +11,7 @@ Projects:
 
 • Ceasar Cipher - Completed
 
-• Parse Arb Logs
+• Parse Arb Logs - Completed
 
 • Web Scraper
 
