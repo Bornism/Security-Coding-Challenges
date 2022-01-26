@@ -15,4 +15,4 @@ def reader(filename):
 
 
 if __name__ == '__main__':
-    reader('/Users/[replace]/Documents/GitHub/SecurityCodingChallenges/Security-Coding-Challenges/access.log')
+    reader('/Users/christopherduncan/Documents/GitHub/SecurityCodingChallenges/Security-Coding-Challenges/access.log')
